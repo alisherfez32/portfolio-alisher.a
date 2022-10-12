@@ -141,7 +141,6 @@ header {
 
 .logo {
     max-width: 140px;
-    margin-top: -3.5%;
     display: flex;
     align-self: flex-start;
 }
